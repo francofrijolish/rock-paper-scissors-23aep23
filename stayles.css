@@ -1,0 +1,63 @@
+*{
+    background-color: purple;
+}
+
+.PROYECTO1{
+    display: flex;
+    justify-content: center;
+}
+
+.PROYECTO1>div {
+    margin: 0 25px;
+}
+
+.Button1 {
+    padding: 10px 20px;
+    background-color: #000000;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.Button1:hover {
+    background-color: #252376;
+  }
+  
+  .Button1:active {
+    background-color: #252376;
+}
+
+.Button2 {
+    padding: 10px 20px;
+    background-color: #000000;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.Button2:hover {
+    background-color: #5345a0;
+}
+  
+.Button2:active {
+    background-color: #0a145c;
+}
+
+.Button3 {
+    padding: 10px 20px;
+    background-color: #000000;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.Button3:hover {
+    background-color: #252376;
+  }
+  
+.Button3:active {
+    background-color: #252376;
+}
