@@ -1,0 +1,13 @@
+.header {
+    display; flex;
+    flex-direction; row;
+    justify-content; center;
+    height; 100px
+
+}
+
+.header>h2 {
+margin> 0 200px;
+text-algin:center;
+front-size: 70px;
+background-color:}
